@@ -1,0 +1,47 @@
+.home{
+    background-color: rgb(172, 97, 221);
+}
+.main{
+   height: 350px;
+   
+}
+.intro{
+    margin-top: 150px;
+    margin-left: 250px;
+    font-size: 35px;
+    font-family: cooper;
+}
+.introtext{
+    margin-left: 250px;
+    margin-bottom: 80px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer{
+    background-color: rgb(241, 230, 146);
+    height: 105px;
+    width: 1408px;
+}
+.footer_text{
+    margin-left: 600px;
+    margin-top: 10px;
+
+}
+
+.about{
+    background-color: aquamarine;
+    height: 515px;
+}
+.contact{
+    background-color: rgb(232, 140, 140);
+    height: 515px;
+}
+nav a{
+    font-weight: bold;
+    text-decoration: none;
+    color: aquamarine;
+}
+nav a.active{
+    font-size: 20px;
+    color: yellow;
+}
